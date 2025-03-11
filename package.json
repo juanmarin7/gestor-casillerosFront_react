@@ -1,0 +1,11 @@
+{
+  "name": "frontend-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "frontend-react": "file:",
+    "react-bootstrap": "^2.10.9",
+    "react-router-dom": "^7.3.0"
+  }
+}
